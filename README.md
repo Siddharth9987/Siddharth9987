@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 👯 I’m looking to collaborate on **AI-store**
+- 👯 I’m builder of worksite **AI-store**
 
 - 📫 How to reach me **siddhartyadav33@gmail.com**
 
