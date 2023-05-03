@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Front-End Developer**
 
-- 🌱 I’m currently learning **Back-End Developement**
+- 🌱 I’m currently learning **Back-End Development**
 
 - 👯 I’m looking to collaborate on **AI-store**
 
