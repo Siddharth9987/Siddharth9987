@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm siddharth yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<img align="right" width=400 alt="coding" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth998&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth998" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth9987&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth9987" /> </p>
 
-- 🔭 I’m currently working on **Front-End developer**
+- 🔭 I’m currently working on **Front-End Developer**
 
-- 🌱 I’m currently learning **Back-End developer**
+- 🌱 I’m currently learning **Back-End Developement**
 
 - 👯 I’m looking to collaborate on **AI-store**
 
