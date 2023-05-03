@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm siddharth yadav</h1>
-<h3 align="center">A Passionate Front-End Worker From India</h3>
+<h3 align="center">A Passionate Front-End Worker | Web Designer | UI/UX Designer | Figma Wrokstationer | Website Builder / Designer With Wix  From India</h3>
 <img align="right" width=400 alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth9987&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth9987" /> </p>
