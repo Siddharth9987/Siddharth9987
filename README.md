@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm siddharth yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-< src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
+<img align="right" width=400 alt="coding" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth9987&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth9987" /> </p>
 
