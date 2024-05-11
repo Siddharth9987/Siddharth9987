@@ -28,5 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth9987&" alt="siddharth9987" /></p>
 
-![Contributions Graph](link/to/your/generated/contributions.png)
+![Contributions Graph](Downloads)
+
 
