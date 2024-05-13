@@ -1,6 +1,6 @@
 <h1 align="center">Hello viewers👋, I'm Siddharth Yadav</h1>
 <h3 align="center">A Passionate Front-End Worker | Web Designer | UI/UX Designer | Figma Wrokstationer | Website Builder / Designer With Wix  From India</h3>
-<img align="right" width=400 alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" width=400 alt="coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth9987&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth9987" /> </p>
 
